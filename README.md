@@ -27,3 +27,5 @@ regional y las desigualdades en acceso a atención especializada en el país.
 ## Cómo correr la app
 1. pip install -r requirements.txt
 2. streamlit run app.py
+
+- Proyecto desarrollado en la Universidad de San Buenaventura
